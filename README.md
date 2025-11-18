@@ -22,7 +22,8 @@ This repository contains simulation software for **two-dimensional particle syst
 Each simulation type is provided as a standalone instance containing:
 
 - A `.txt` file with input parameters  
-- A `.f90` Fortran source file implementing the simulation  
+- A `.f90` Fortran source file implementing the simulation
+- An example of an output file `Output_example.dat`
 
 Example layout:
 
@@ -30,18 +31,22 @@ Example layout:
 MC_NVT/
     MC_NVT_parametri.txt
     MC_NVT.f90
+    Output_example.dat
 
 MC_NPT/
     MC_NPT_parametri.txt
     MC_NPT.f90
+    Output_example.dat
 
 MD_NVT/
     MD_NVT_parametri.txt
     MD_NVT.f90
+    Output_example.dat
 
 MD_NPT/
     MD_NPT_parametri.txt
     MD_NPT.f90
+    Output_example.dat
 ```
 
 ---

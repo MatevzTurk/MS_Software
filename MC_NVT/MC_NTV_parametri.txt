@@ -1,0 +1,17 @@
+parametri MC simulacije
+
+Simulacija:
+
+število delcev:     100
+število paralelk:   10
+število korakov:    10000000
+maksimalen premik:  0.2
+
+Ensambel:
+
+zač. temperatura:   0.100
+končna temperatura: 1.700
+temperaturni korak: 0.100
+začetna gostota:    0.050
+končna gostota:     1.000
+korak gostote:      0.050

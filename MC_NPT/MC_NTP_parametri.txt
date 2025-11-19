@@ -1,0 +1,19 @@
+parametri MC simulacije
+
+Simulacija:
+
+število delcev:     100
+število paralelk:   10
+število korakov:    10000000
+maksimalen premik:  0.4
+maksimalen dV:      5.0
+
+Ensambel:
+
+zač. temperatura:   0.050
+končna temperatura: 1.500
+temperaturni korak: 0.050
+začetni tlak:       0.400
+končni tlak:        1.900
+korak tlaka:        0.100
+začetna gostota:    0.500

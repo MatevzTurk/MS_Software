@@ -25,7 +25,7 @@ Each simulation type is provided as a standalone instance containing:
 - A `.f90` Fortran source file implementing the simulation
 - An example of an output file `Output_example.dat`
 
-Example layout:
+Layout:
 
 ```
 MC_NVT/
@@ -47,6 +47,9 @@ MD_NPT/
     MD_NPT_parametri.txt
     MD_NPT.f90
     Output_example.dat
+
+LICENSE
+README.md
 ```
 
 ---

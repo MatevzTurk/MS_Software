@@ -1,0 +1,18 @@
+parametri MD simulacije
+
+Simulacija:
+
+število delcev:     100
+število paralelk:   3
+število korakov:    500
+časovni korak:      0.001
+
+Ensambel:
+
+zač. temperatura:   0.200
+končna temperatura: 0.600
+temperaturni korak: 0.100
+začetni tlak:       1.200
+končni tlak:        1.400
+korak tlaka:        0.200
+začetna gostota:    0.500
